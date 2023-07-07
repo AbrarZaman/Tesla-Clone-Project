@@ -1,4 +1,3 @@
-# Tesla Clone 
 
 Introduction: 
 I am excited to present my React project, the "Tesla Clone Website." This web application showcases my proficiency in front-end web development, specifically in React, Redux, HTML, CSS, and JavaScript. With a focus on delivering a visually appealing and user-friendly interface, the Tesla Clone Website demonstrates my ability to implement fundamental React concepts while providing an engaging user experience. The project serves as a strong foundation to highlight my skills and potential as a React developer. I have followed many YouTube tutorials and finally made a Tesla clone website.
